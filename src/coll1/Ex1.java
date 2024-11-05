@@ -7,7 +7,7 @@ import java.util.List;
 public class Ex1 {
 	public static void main(String[] args) {
 		List<Integer> arr1 = new ArrayList<>();
-		arr1.add(25);
+		arr1.add(24);
 		arr1.add(30);
 		arr1.add(10);
 		for (int i = 0; i < arr1.size(); i++) {
